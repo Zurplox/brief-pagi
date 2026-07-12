@@ -1,0 +1,3 @@
+data/last_sent.json
+__pycache__/
+*.pyc
