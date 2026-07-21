@@ -1,34 +1,34 @@
 {
- "updated": "2026-07-20T23:42+00:00",
+ "updated": "2026-07-21T23:42+00:00",
  "tickers": [
   {
    "label": "VOO (S&P 500)",
-   "last": 682.21,
-   "pct": -0.91
+   "last": 687.87,
+   "pct": -0.47
   },
   {
    "label": "QQQ (Nasdaq 100)",
-   "last": 696.06,
-   "pct": -2.2
+   "last": 708.97,
+   "pct": -1.49
   },
   {
    "label": "VEU (World ex-US)",
-   "last": 81.25,
-   "pct": -0.91
+   "last": 82.63,
+   "pct": -0.27
   }
  ],
  "fx": [
   {
    "pair": "USD/SGD",
-   "rate": 1.291
+   "rate": 1.292
   },
   {
    "pair": "USD/IDR",
-   "rate": 17971.0
+   "rate": 17904.0
   },
   {
    "pair": "SGD/IDR",
-   "rate": 13924.849
+   "rate": 13860.869
   }
  ]
 }
